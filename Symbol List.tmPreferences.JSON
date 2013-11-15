@@ -1,0 +1,9 @@
+{
+    "name": "Symbol List: Templates",
+    "scope": "text.xml.xdl meta.tag.xml.xdl.node",
+    "settings": {
+        "showInSymbolList": 1,
+        "symbolTransformation": "s/^\\s*<node\\s+(.*)\\s*>/$1/"
+    },
+    "uuid": "C626EC2B-16E0-403C-A569-430C15A9764B"
+}
