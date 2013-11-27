@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<node name="${1}"${2: alias="${3}"}${4}>
+	${5}
+</node>]]></content>
+  <tabTrigger>node</tabTrigger>
+  <scope>text.xml.xdl</scope>
+  <description>node</description>
+</snippet>

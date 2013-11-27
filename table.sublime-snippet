@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<table name="${1}" alias="${2}"${3: joincondition="${4}"}${5} />]]></content>
+  <tabTrigger>table</tabTrigger>
+  <scope>text.xml.xdl</scope>
+  <description>table</description>
+</snippet>

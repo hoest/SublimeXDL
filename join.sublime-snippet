@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<join${1: node=${2}}${3: field=${4}}${5: condition=${6}}${7} />]]></content>
+  <tabTrigger>join</tabTrigger>
+  <scope>text.xml.xdl</scope>
+  <description>join (node)</description>
+</snippet>

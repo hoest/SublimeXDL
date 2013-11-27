@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<field${1: table="${2}"} name="${3}"${4: alias="${5}"} type="${6:attribute|set|tag|text|hidden}"${7} />]]></content>
+  <tabTrigger>field</tabTrigger>
+  <scope>text.xml.xdl</scope>
+  <description>field</description>
+</snippet>

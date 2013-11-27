@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<if${1: xpath="${2}"}${3: expr="${4:^${5}\$}"} />]]></content>
+  <tabTrigger>ifxpath</tabTrigger>
+  <scope>text.xml.xdl</scope>
+  <description>if (xpath)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<where${2: param="${3}"} condition="${1}" />]]></content>
+  <tabTrigger>where</tabTrigger>
+  <scope>text.xml.xdl</scope>
+  <description>where</description>
+</snippet>
